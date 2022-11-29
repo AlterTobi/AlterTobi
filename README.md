@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlterTobi
-- 👀 I’m interested in AR Games, The Lord of the Rings, PHP, Python
+- 👀 I’m interested in AR games, The Lord of the Rings, PHP, Python
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Wayfarer Scripts
 - 📫 https://t.me/AlterTobi
